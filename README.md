@@ -15,6 +15,6 @@ This repository contains the implementation of a Usage-Based Insurance (UBI) sys
 - **Programming Language:** Python
 - **Frameworks:** Flask 
 - **Data Analysis:** Pandas, NumPy
-- **Machine Learning (if applicable):** Scikit-learn, TensorFlow
-- **Visualization:** Matplotlib, Seaborn
-- **Database:** SQLite (or MySQL/PostgreSQL)
+- **Machine Learning Algorithms:**Random Forest
+- **Visualization:** Matplotlib
+- **Database:** MySQL
